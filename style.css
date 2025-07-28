@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0fff0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #98fb98; /* hijau muda */
+    padding: 20px;
+    text-align: center;
+    color: #d63384; /* pink fuchsia */
+}
+
+nav {
+    background-color: #ffb6c1; /* pink muda */
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #006400; /* hijau tua */
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
